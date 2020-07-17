@@ -20,12 +20,12 @@ The Foundations part of Acceleration program includes these topics:
 The protégé will have demonstrated an understanding of the following concepts and used them while completing katas:
 ​
 - [x] Creating a repository
-- [ ] Cloning a repository
-- [ ] Creating branches
-- [ ] Merging branches
-- [ ] Pushing branches
-- [ ] Creating a pull request
-- [ ] Reviewing a pull request, commenting on, approving, and merging a pull request
+- [x] Cloning a repository
+- [x] Creating branches
+- [x] Merging branches
+- [x] Pushing branches
+- [x] Creating a pull request
+- [x] Reviewing a pull request, commenting on, approving, and merging a pull request
 ​
 ### Keyboard Confidence
 ​
@@ -36,7 +36,7 @@ They will have demonstrated the ability to type on the keyboard as a way of inte
 They should choose an editor and become efficient using it. It would be great to be familiar with a second editor, but efficient use is not a requirement.
 ​
 - [ ] Can use keyboard shortcuts, and knows how to find them for commands
-- [ ] Can use the refactor function to rename variables, method names, classes, etc.
+- [x] Can use the refactor function to rename variables, method names, classes, etc.
 - [ ] Is aware of ways of extending the editor through the use of plugins/extensions or configuration options
 - [ ] Can open the editor from the command line
 ​
@@ -56,12 +56,12 @@ They should have demonstrated their understanding of the different ways of pair 
 ​
 They should be aware of the following concepts, be able to describe what they are, and have used them while completing katas. These are all to be demonstrated in C# (the language of choice for Proteges):
 ​
-- [ ] Variables & Types
-- [ ] If / Else & Case Statements
-- [ ] Arrays
-- [ ] Methods & Functions
-- [ ] Collections (List, Dictionary/HashSet)
-- [ ] Looping
+- [x] Variables & Types
+- [x] If / Else & Case Statements
+- [x] Arrays
+- [x] Methods & Functions
+- [x] Collections (List, Dictionary/HashSet)
+- [x] Looping
 - [ ] Enums
 - [ ] Classes - Public / Private / Protected Methods
 - [ ] Classes - Static methods vs Instance methods
