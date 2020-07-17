@@ -19,7 +19,7 @@ The Foundations part of Acceleration program includes these topics:
 ​
 The protégé will have demonstrated an understanding of the following concepts and used them while completing katas:
 ​
-- [ ] Creating a repository
+- [x] Creating a repository
 - [ ] Cloning a repository
 - [ ] Creating branches
 - [ ] Merging branches
