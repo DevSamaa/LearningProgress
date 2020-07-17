@@ -109,7 +109,7 @@ They should follow the guidelines of Test Driven Development in completing the k
 ​
 > The basic TDD cycle is followed where in general each time new functionality is added to the solution an appropriate test is written first.
 ​
-- [ ] Achieved Level 3
+- [x] Achieved Level 3
 ​
 ### Test Doubles
 ​
@@ -125,7 +125,7 @@ They should demonstrate that they understands the YAGNI concept, and uses it whe
 ​
 > Generally applies YAGNI principles when solving problems. Delays implementing code capabilities to support presumptive features. Solution design focusses on solving the problem at hand without gold-plating.
 ​
-- [ ] Achieved Level 3
+- [x] Achieved Level 3
 ​
 ### Command Query Separation
 ​
@@ -141,7 +141,7 @@ They should demonstrate their knowledge of object oriented programming, and be a
 ​
 > Can implement object composition in coding problems. Consistently applies composition over inheritance in code.
 ​
-- [ ] Achieved Level 3
+- [x] Achieved Level 3
 ​
 ### Whiteboarding
 ​
