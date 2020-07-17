@@ -35,7 +35,7 @@ They will have demonstrated the ability to type on the keyboard as a way of inte
 ​
 They should choose an editor and become efficient using it. It would be great to be familiar with a second editor, but efficient use is not a requirement.
 ​
-- [ ] Can use keyboard shortcuts, and knows how to find them for commands
+- [x] Can use keyboard shortcuts, and knows how to find them for commands
 - [x] Can use the refactor function to rename variables, method names, classes, etc.
 - [ ] Is aware of ways of extending the editor through the use of plugins/extensions or configuration options
 - [ ] Can open the editor from the command line
@@ -62,14 +62,14 @@ They should be aware of the following concepts, be able to describe what they ar
 - [x] Methods & Functions
 - [x] Collections (List, Dictionary/HashSet)
 - [x] Looping
-- [ ] Enums
-- [ ] Classes - Public / Private / Protected Methods
-- [ ] Classes - Static methods vs Instance methods
-- [ ] Classes - Constructor & passing values through a constructor
-- [ ] Classes - Private / Protected Variables
-- [ ] Inheritance with classes (and why it should usually be avoided)
-- [ ] Composition with classes (why this is usually better than inheritance)
-- [ ] Interfaces
+- [x] Enums
+- [x] Classes - Public / Private / Protected Methods
+- [x] Classes - Static methods vs Instance methods
+- [x] Classes - Constructor & passing values through a constructor
+- [x] Classes - Private / Protected Variables
+- [x] Inheritance with classes (and why it should usually be avoided)
+- [x] Composition with classes (why this is usually better than inheritance)
+- [x] Interfaces
 - [ ] Exceptions
 ​
 ## Language Design
