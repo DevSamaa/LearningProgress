@@ -19,9 +19,9 @@ The Frameworkless Web Application & CI/CD Deployment Pipelines part of Accelerat
 ​
 The protégé will have demonstrated an understanding of the following concepts and used them while completing exercises and katas:
 ​
-- [ ] Has an understanding of what AWS accounts are and can identify which accounts to use
-- [ ] Has used the AWS web console to view and create AWS resources
-- [ ] Has created a simple website using Elastic Compute Cloud (EC2) and Route53 for DNS
+- [x] Has an understanding of what AWS accounts are and can identify which accounts to use
+- [x] Has used the AWS web console to view and create AWS resources
+- [x] Has created a simple website using Elastic Compute Cloud (EC2) and Route53 for DNS
 - [ ] Can describe what Virtual Private Cloud (VPC) is and why it is important
 - [ ] Can describe what CloudFormation is and why it is useful
 
@@ -49,11 +49,11 @@ The protégé will have demonstrated an understanding of the following concepts:
 
 The protégé will have demonstrated an understanding of the following concepts and used them while completing exercises and katas:
 
-- [ ] Has built a Docker image which runs a C# application
-- [ ] Can describe the key elements of a `Dockerfile`
+- [x] Has built a Docker image which runs a C# application
+- [x] Can describe the key elements of a `Dockerfile`
 - [ ] Can mount a Volume in a Docker container
-- [ ] Can describe what a Container Registry is, and how Docker uses them
-- [ ] Has published and pulled a Docker Image to a Container Registry
+- [x] Can describe what a Container Registry is, and how Docker uses them
+- [x] Has published and pulled a Docker Image to a Container Registry
 
 ### Continuous Integration and Delivery
 
@@ -63,7 +63,7 @@ The protégé will have demonstrated an understanding of the following concepts 
 - [ ] Can describe the differences between Continuous Integration, Continous Delivery, and Continous Deployment
 - [ ] Has implemented a pipeline that contains clear separation of compile, test, package, and deploy stages
 - [ ] Has implemented a pipeline where there is some form of verification before the deploy stage, and if the verification fails then the deploy does not occur
-- [ ] Can describe the pipeline providing explanations of each step, the sequence of steps, and the why and how for each of the steps
+- [x] Can describe the pipeline providing explanations of each step, the sequence of steps, and the why and how for each of the steps
 - [ ] Has got an application running in Jupiter or AWS which is deployed via a pipeline
 
 ### Managing Secrets
