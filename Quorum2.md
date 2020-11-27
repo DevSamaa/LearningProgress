@@ -29,11 +29,11 @@ The protégé will have demonstrated an understanding of the following concepts 
 
 The protégé will have demonstrated an understanding of the following concepts:
 
-- [ ] Can describe the elements of an HTTP request
-- [ ] Can describe the elements of an HTTP response
-- [ ] Can describe what happens in an HTTP request and response flow
+- [x] Can describe the elements of an HTTP request
+- [x] Can describe the elements of an HTTP response
+- [x] Can describe what happens in an HTTP request and response flow
 - [ ] Can describe how to serve different types of content
-- [ ] Has used `curl` and a Browser Network Inspector to investigate HTTP requests and responses
+- [x] Has used `curl` and a Browser Network Inspector to investigate HTTP requests and responses
 - [ ] Can describe why Transport Layer Security (TLS) is important and how it is used
 
 ### Basics of REST
@@ -59,18 +59,18 @@ The protégé will have demonstrated an understanding of the following concepts 
 
 The protégé will have demonstrated an understanding of the following concepts and used them while completing exercises and katas:
 
-- [ ] Can describe the key systems and relationships involved in building and deploying an application to Jupiter or AWS
+- [x] Can describe the key systems and relationships involved in building and deploying an application to Jupiter or AWS
 - [ ] Can describe the differences between Continuous Integration, Continous Delivery, and Continous Deployment
-- [ ] Has implemented a pipeline that contains clear separation of compile, test, package, and deploy stages
-- [ ] Has implemented a pipeline where there is some form of verification before the deploy stage, and if the verification fails then the deploy does not occur
+- [x] Has implemented a pipeline that contains clear separation of compile, test, package, and deploy stages
+- [x] Has implemented a pipeline where there is some form of verification before the deploy stage, and if the verification fails then the deploy does not occur
 - [x] Can describe the pipeline providing explanations of each step, the sequence of steps, and the why and how for each of the steps
-- [ ] Has got an application running in Jupiter or AWS which is deployed via a pipeline
+- [x] Has got an application running in Jupiter or AWS which is deployed via a pipeline
 
 ### Managing Secrets
 
 The protégé will have demonstrated an understanding of the following concepts and used them while completing exercises and katas:
 
-- [ ] Can describe what a secret is with examples
-- [ ] Can describe why secrets should not be in code repositories
+- [x] Can describe what a secret is with examples
+- [x] Can describe why secrets should not be in code repositories
 - [ ] Can describe the different tools or services which could be used to manage secrets
-- [ ] Has used a tool or service to include a secret in an application or Docker container
+- [x] Has used a tool or service to include a secret in an application or Docker container
