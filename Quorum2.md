@@ -51,7 +51,7 @@ The protégé will have demonstrated an understanding of the following concepts 
 
 - [x] Has built a Docker image which runs a C# application
 - [x] Can describe the key elements of a `Dockerfile`
-- [ ] Can mount a Volume in a Docker container
+- [x] Can mount a Volume in a Docker container
 - [x] Can describe what a Container Registry is, and how Docker uses them
 - [x] Has published and pulled a Docker Image to a Container Registry
 
