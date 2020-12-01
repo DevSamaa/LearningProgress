@@ -60,7 +60,7 @@ The protégé will have demonstrated an understanding of the following concepts 
 The protégé will have demonstrated an understanding of the following concepts and used them while completing exercises and katas:
 
 - [x] Can describe the key systems and relationships involved in building and deploying an application to Jupiter or AWS
-- [ ] Can describe the differences between Continuous Integration, Continous Delivery, and Continous Deployment
+- [x] Can describe the differences between Continuous Integration, Continous Delivery, and Continous Deployment
 - [x] Has implemented a pipeline that contains clear separation of compile, test, package, and deploy stages
 - [x] Has implemented a pipeline where there is some form of verification before the deploy stage, and if the verification fails then the deploy does not occur
 - [x] Can describe the pipeline providing explanations of each step, the sequence of steps, and the why and how for each of the steps
