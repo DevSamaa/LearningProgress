@@ -32,7 +32,7 @@ The protégé will have demonstrated an understanding of the following concepts:
 - [x] Can describe the elements of an HTTP request
 - [x] Can describe the elements of an HTTP response
 - [x] Can describe what happens in an HTTP request and response flow
-- [ ] Can describe how to serve different types of content
+- [x] Can describe how to serve different types of content
 - [x] Has used `curl` and a Browser Network Inspector to investigate HTTP requests and responses
 - [ ] Can describe why Transport Layer Security (TLS) is important and how it is used
 
