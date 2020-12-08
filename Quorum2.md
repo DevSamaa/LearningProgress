@@ -72,5 +72,5 @@ The protégé will have demonstrated an understanding of the following concepts 
 
 - [x] Can describe what a secret is with examples
 - [x] Can describe why secrets should not be in code repositories
-- [ ] Can describe the different tools or services which could be used to manage secrets
+- [x] Can describe the different tools or services which could be used to manage secrets
 - [x] Has used a tool or service to include a secret in an application or Docker container
