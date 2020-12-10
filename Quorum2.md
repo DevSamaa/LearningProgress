@@ -40,10 +40,10 @@ The protégé will have demonstrated an understanding of the following concepts:
 
 The protégé will have demonstrated an understanding of the following concepts:
 
-- [ ] Can describe what REST is and how it is useful for building APIs
+- [x] Can describe what REST is and how it is useful for building APIs
 - [x] Can describe how HTTP verbs and URLs are used in REST
-- [ ] Can describe the different types of REST calls and what impact they have on the data
-- [ ] Can describe the roles of Clients and Servers in REST
+- [x] Can describe the different types of REST calls and what impact they have on the data
+- [x] Can describe the roles of Clients and Servers in REST
 
 ### Containerization
 
