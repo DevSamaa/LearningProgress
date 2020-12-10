@@ -22,7 +22,7 @@ The protégé will have demonstrated an understanding of the following concepts 
 - [x] Has an understanding of what AWS accounts are and can identify which accounts to use
 - [x] Has used the AWS web console to view and create AWS resources
 - [x] Has created a simple website using Elastic Compute Cloud (EC2) and Route53 for DNS
-- [ ] Can describe what Virtual Private Cloud (VPC) is and why it is important
+- [x] Can describe what Virtual Private Cloud (VPC) is and why it is important
 - [x] Can describe what CloudFormation is and why it is useful
 
 ### Basics of HTTP
